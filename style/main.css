@@ -1,10 +1,12 @@
 html {
   box-sizing: border-box;
+  background-color: #252526;
 }
 
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
+  color: #fff;
 }
 
 .song {
